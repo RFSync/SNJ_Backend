@@ -1,4 +1,3 @@
 from .home import home_bp
-from .about import about_bp
-from .hello import hello_bp
-from .echo import echo_bp
+from .upload import upload_bp
+from .orders import orders_bp
